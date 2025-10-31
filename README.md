@@ -19,8 +19,8 @@ This exploit demonstrates CVE 2018-17552 and CVE 2018-17553 vulnerability chain 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/navigate_rce.git
-cd navigate_rce
+git clone https://github.com/adrianmafandy/Navigate-CMS-RCE.git
+cd Navigate-CMS-RCE
 
 # Make the script executable
 chmod +x navigate_rce.sh
